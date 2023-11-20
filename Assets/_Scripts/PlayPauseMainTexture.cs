@@ -49,4 +49,3 @@ public class PlayPauseMainTexture : MonoBehaviour {
             videoPlayer.Play();
     }
 } 
-
